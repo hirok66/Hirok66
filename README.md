@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirok66&label=Profile%20views&color=0e75b6&style=flat" alt="hirok66" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirok66" alt="hirok66" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hhirok" target="blank"><img src="https://img.shields.io/twitter/follow/hhirok?logo=twitter&style=for-the-badge" alt="hhirok" /></a> </p>
 
 - 🔭 I’m currently working on **Radon Company Profile**
 
